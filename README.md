@@ -20,3 +20,8 @@ Una herramienta premium y segura para la comunidad de Destiny 2, diseñada para 
 
 - **Creado por**: Meta / Metatimes
 - **Twitter/X**: [@metakure](https://x.com/metakure)
+
+## ✨ Descargas directas Github
+* [https://github.com/metatimes/metakure/releases/tag/v1.0](https://github.com/metatimes/metakure/releases/tag/v1.0)
+* [https://github.com/metatimes/metakure/releases/download/v1.0/D2ChkBotMeta.exe](https://github.com/metatimes/metakure/releases/download/v1.0/D2ChkBotMeta.exe)
+
