@@ -1,4 +1,5 @@
 # 🛡️ D2 Checkpoint Generator - Meta Edition
+![Banner](banner.png)
 
 Una herramienta premium y segura para la comunidad de Destiny 2, diseñada para automatizar y agilizar el acceso a checkpoints de Raids y Mazmorras.
 
