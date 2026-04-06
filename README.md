@@ -1,11 +1,12 @@
 # 🛡️ D2 Checkpoint Bot - Sovereign Ultra Premium
+## 🌐 Supported Languages
+**EN, ES, FR, DE, IT, PT, JP, ZH, ZHT, PL, RU, KO.**
 
 ![Banner](banner_wide.png)
 
 A professional, secure automation suite for the Destiny 2 community. Streamline your Raid and Dungeon checkpoint acquisition with our advanced fleet technology.
 
-### 📥 [Download D2ChkBotMeta.exe (Definitive Edition)](https://github.com/metatimes/metakure/releases/download/v1.0/D2ChkBotMeta.exe)
-
+### 📥 [Download D2ChkBotMeta.exe (Definitive Edition)](https://github.com/metatimes/metakure/releases/download/D2CHECKPOINTS/D2ChkBotMeta.exe)
 ---
 
 ## 🚀 Key Features
@@ -30,9 +31,6 @@ A professional, secure automation suite for the Destiny 2 community. Streamline 
 | :---: | :---: | :---: |
 | ![Main UI](ui_main.png) | ![List UI](ui_checkpoints.png) | ![Panel UI](ui_panel.png) |
 
-## 🌐 Supported Languages
-
-**EN, ES, FR, DE, IT, PT, JP, ZH, ZHT, PL, RU, KO.**
 
 ---
 *Developed by Metatimes / Metakure. Total Fleet Sovereignty achieved.*
