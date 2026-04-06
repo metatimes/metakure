@@ -1,6 +1,33 @@
 # [ PREMIUM ] D2 Checkpoint Bot - Sovereign Meta Edition
 **Metakure / Metatimes**
 
+A professional, secure automation tool for the Destiny 2 community. Streamline your Raid and Dungeon checkpoint acquisition with our sovereign fleet technology.
+
+## Key Features
+- **Global Autonomous Fleet**: No Twitch login required (System Bots Global) or use your Personal Account.
+- - **D2Checkpoints.com Integration**: Built-in panel for copy-pasting commands from the web.
+  - - **Tactical UI**: Responsive controls, Meta Loading screen, and opacity adjustments.
+    - - **Secured Architecture**: No local tokens; fully encrypted telemetry.
+      -
+      - ## Step-by-Step Operation Guide
+      - 1. **Language Selection**: Currently supporting **English** and **Spanish** interfaces.
+        2. 2. **Twitch Node Selection**: Choose the active node for your checkpoint request.
+           3. 3. **Bungie ID Configuration**: Enter your Bungie Name (e.g., Name#1234) for automated invite/messaging.
+              4. 4. **Activity & Checkpoint Selection**:
+                 5.    - Filter by Raid or Dungeon.
+                       -    - Select your desired checkpoint (activities marked with **(M)** indicate **Master** difficulty).
+                            - 5. **Dispatch Options**:
+                              6.    - **Copy Command**: Manually copy the join command and paste it anywhere.
+                                    -    - **BOT AUTO SEND**:
+                                         -      - **Option A (System Bots)**: Use global system bots to send the request without a Twitch login.
+                                         -       - **Option B (Personal Account)**: Use your own Twitch account via secure authentication.
+                                         -   6. **Side Panel Access**: Toggle the **"D2CHECKPOINT-BOTS (LIST)"** button to access external checkpoints from d2checkpoints.com directly in the app.
+                                             7.
+                                             8. ---
+                                             9. *Developed for the Destiny 2 Community by Metatimes.*
+                                             10. # [ PREMIUM ] D2 Checkpoint Bot - Sovereign Meta Edition
+**Metakure / Metatimes**
+
 A premium, secure tool for the Destiny 2 community, designed to automate and streamline access to Raid and Dungeon checkpoints. This version is the final sovereign rollout, ensuring no sensitive data is exposed and providing a seamless tactical experience.
 
 ## Key Features
