@@ -11,7 +11,7 @@ A professional, secure automation suite for the Destiny 2 community. Streamline 
 ---
 ## ⚠️ Important Security Notice (Windows)
 Because this is a brand new, custom-built application, Windows may flag it upon first launch.
-*   **SmartScreen Warning**: If you see a blue "Windows protected your PC" popup, click **"More info"** and then **"Run anyway"** (*Permitir de todas formas*).
+*   **SmartScreen Warning**: If you see a blue "Windows protected your PC" popup, click **"More info"** and then **"Run anyway"**.
 *   **Windows Firewall**: The app requires an active internet connection to communicate securely with the Twitch network. When prompted, you **must allow network access** for the bot to function correctly.
 ---
 ## 🚀 Key Features
